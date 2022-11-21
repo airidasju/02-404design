@@ -60,7 +60,7 @@ There is no tests for this project.
 ## 🎅 Authors
 
 Airidas: [Github](https://github.com/airidasju)
-          [LinkedIn](https://www.linkedin.com/in/airidas-ju%C5%A1ka-549141235/)
+         [LinkedIn](https://www.linkedin.com/in/airidas-ju%C5%A1ka-549141235/)
 
 ## 🔗 Other resources
 
