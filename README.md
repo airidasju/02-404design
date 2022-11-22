@@ -7,7 +7,7 @@ _website design project_
 ## 🌟 About
 
 
-Site published at: https://airidasju.github.io/02-404design/
+Site published at: [404 Design](https://airidasju.github.io/02-404design/)
 
 Design: [error](./img/design.png)
 
@@ -39,7 +39,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+    git clone https://github.com/airidasju/02-404design.git
     ```
 2. Install NPM packages
     ```sh
